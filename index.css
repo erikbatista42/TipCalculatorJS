@@ -1,0 +1,17 @@
+body {
+    background-color: cyan;
+    text-align: center;
+    font-family: 'Arial';
+    
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.tip-calculator {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
